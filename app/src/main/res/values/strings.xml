@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Maquina Expendedora App</string>
+    <string name="nombre_producto">Nombre del producto</string>
+    <string name="precio_producto">Precio del producto</string>
+    <string name="guardar_producto">Guardar producto</string>
+    <string name="id_producto">Ingresa el id del producto</string>
+    <string name="btnBuscar">Buscar producto</string>
+    <string name="generarVenta">Generar venta</string>
+    <string name="guardarMaquina">Crear maquina expendedora</string>
+    <string name="ubicacion">Ubicación</string>
+    <string name="longitud">Longitud</string>
+    <string name="latitud">Latitud</string>
+    <string name="select_maquina">Id maquina expendedora</string>
+    <string name="select_producto">Id del producto</string>
+    <string name="fecha">Fecha para las ventas</string>
+    <string name="ver_ventas">Ver ventas</string>
+
+</resources>
+
